@@ -8,20 +8,8 @@
 
 # Online-Food-Ordering
 
-<!-- ### Some of screen-shots of my Online-Food-Ordering website. -->
 
-<!-- ![1]() -->
-
-
-### 👇Live Demo
-
-[Link]()
-
----
-
-
-
-# 🛠️Technologies used
+## 🛠️Technologies used
 
 - HTML
 - CSS
